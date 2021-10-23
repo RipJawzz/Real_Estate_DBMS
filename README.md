@@ -1,4 +1,4 @@
-# Real_Estate_DBMS
+# Real_Estate_Management_System
 
 db_re : database files  
 init_db : SQL code to initialize database  
